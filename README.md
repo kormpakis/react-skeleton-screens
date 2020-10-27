@@ -1,3 +1,5 @@
+This project is based on NetNinja's tutorial, which can be found in the following link: https://www.youtube.com/playlist?list=PL4cUxeGkcC9i6bZhMuAzQpC6YgLmB4k4-
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
